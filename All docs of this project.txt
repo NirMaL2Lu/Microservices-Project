@@ -1,0 +1,14 @@
+user-service 
+--------------
+port:8081
+
+
+
+hotel-service 
+--------------
+port:8082
+
+
+okta redirect url
+----------------------------
+http://localhost:8084/login/oauth2/code/okta
